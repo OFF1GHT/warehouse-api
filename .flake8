@@ -1,0 +1,3 @@
+[flake8]
+exclude = __init__.py,migrations,venv,*.pyc,*.egg-info,requirements.txt,Dockerfile
+max-line-length = 88
