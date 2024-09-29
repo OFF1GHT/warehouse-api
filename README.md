@@ -6,7 +6,7 @@
 ### Установка и запуск
 1. Клонируте репозиторий:
 ```
-git clone https://github.com/OFF1GHT/warehouse-api
+git clone git@github.com:OFF1GHT/warehouse-api.git
 cd stockroom
 ```
 
